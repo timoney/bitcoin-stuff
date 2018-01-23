@@ -1,0 +1,1 @@
+This project tries to extract as many messages as possible from the bitcoin blockchain. The primary locations of plaintext are in the scriptSig section of the coinbase transaction and after the OP_RETURN opcode of ordinary transactions.
